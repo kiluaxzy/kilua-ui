@@ -1,7 +1,7 @@
 {
-  "name": "Rynn Api's",
-  "version": "Rynn UI",
-  "description": "Simple and Easy-to-Use API Documentation",
+  "name": "Kilua Api's",
+  "version": "Kilua UI",
+  "description": "Simple and Easy-to-Use API Documentation Bot Whatsaap",
   "header": {
     "status": "Online!",
     "imageSrc": [
@@ -14,7 +14,7 @@
     }
   },
   "apiSettings": {
-    "creator": "Rynn"
+    "creator": "kilua"
   },
   "links": [
     {
